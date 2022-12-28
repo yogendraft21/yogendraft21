@@ -1,6 +1,6 @@
 ### Hi there, I'm Yogendra Singh 👋  
 
-<a href="https://boisterous-melomakarona-b3440e.netlify.app/">
+<a href="https://yogendraft21.github.io/personal_website/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://jitesh-sirohi.vercel.app" />
 </a>
 <a title="yogendra311204@gmail.com" href="mailto:yogendra311204@gmail.com">
