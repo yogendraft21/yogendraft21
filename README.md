@@ -1,6 +1,6 @@
 ### Hi there, I'm Yogendra Singh 👋  
 
-<a href="https://yogendraft21.github.io/personal_website/">
+<a href="https://yogendraft21.github.io/yogendraft.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://jitesh-sirohi.vercel.app" />
 </a>
 <a title="yogendra311204@gmail.com" href="mailto:yogendra311204@gmail.com">
