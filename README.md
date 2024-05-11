@@ -12,8 +12,8 @@
 
 ---
 
-## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning MERN Stack at Masai School.
+## I'm a Full Stack Developer and Life Long Learner!
+- 🌱 I’m currently Working on MERN Stack at CodeMyMobilw.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
 - ⚡ Fact: I love to be fit first.
