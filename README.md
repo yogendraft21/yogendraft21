@@ -6,7 +6,7 @@
 <a title="yogendra311204@gmail.com" href="mailto:yogendra311204@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yogendra311204@gmail.com" />
 </a>
-<a href="https://www.linkedin.com/in/yogendra-singh-04532418b/">
+<a href="https://www.linkedin.com/in/yogendra-singh-verma-04532418b/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/yogendra-singh-04532418b//" />
 </a>
 
